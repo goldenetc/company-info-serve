@@ -27,7 +27,7 @@
 ```
 {
   "mcpServers": {
-    "GD-company-info-server": {
+    "company-info-server": {
       "url": "https://mcp.golcer.com/mcp/"
     }
   }
